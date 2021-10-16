@@ -1,3 +1,9 @@
+/**
+* Java1 HomeWork3
+ * @author Лукьянова Елизавета
+ * @version 16.10.2021
+ */
+
 import java.util.Arrays;
 
 public class Lesson03_01 {
