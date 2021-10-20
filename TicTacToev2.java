@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 class TicTacToev2 {
-    //поля. имена инициал-ных полей большими буквам
+    //поля. имена инициал-ных полей большими буквами
     final char SIGN_X = 'x';
     final char SIGN_O = 'o';
     final char SIGN_EMPTY = '.';
